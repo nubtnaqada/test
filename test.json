@@ -3,223 +3,79 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "FLA",
-          "prestige" : "95",
-          "state" : "Florida",
-          "name" : "Florida",
-          "rival" : "TEN"
-        },
-        {
-          "abbreviation" : "ALA",
+          "abbreviation" : "BAMA",
           "prestige" : "89",
           "state" : "Alabama",
           "name" : "Alabama",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "55",
-            "ratOff" : "95",
-            "cumulativePrestige" : "-3",
-            "ratDef" : "95",
-            "homeState" : "Arizona",
-            "ratPot" : "89",
-            "ratTalent" : "95",
-            "baselinePrestige" : "95",
-            "ratDiscipline" : "90",
-            "ratOvr" : "93",
-            "name" : "Marques Guralnick",
-            "contractYear" : "2"
-          },
-          "rival" : "ATH"
+          "rival" : "AUB"
+        },
+	  {
+          "abbreviation" : "AUB",
+          "prestige" : "95",
+          "state" : "Alabama",
+          "name" : "Auburn",
+          "rival" : "BAMA"
         },
         {
-          "abbreviation" : "TEN",
+          "abbreviation" : "MISS",
           "prestige" : "77",
+          "state" : "Mississippi",
+          "name" : "Ole Miss",
+          "rival" : "MSST"
+        },
+        {
+          "abbreviation" : "MSST",
+          "prestige" : "81",
+          "state" : "Mississippi",
+          "name" : "Mississippi St.",
+          "rival" : "MISS"
+        },
+        {
+          "abbreviation" : "TENN",
+          "prestige" : "74",
           "state" : "Tennessee",
           "name" : "Tennessee",
-          "headCoach" : {
-            "contractLength" : "2",
-            "startYear" : "2019",
-            "age" : "48",
-            "ratOff" : "95",
-            "cumulativePrestige" : "3",
-            "ratDef" : "85",
-            "homeState" : "Iowa",
-            "ratPot" : "88",
-            "ratTalent" : "95",
-            "baselinePrestige" : "80",
-            "ratDiscipline" : "88",
-            "ratOvr" : "90",
-            "name" : "Frank Penley",
-            "contractYear" : "1"
-          },
-          "rival" : "FLA"
+          "rival" : "VAND"
         },
         {
-          "abbreviation" : "ATH",
-          "prestige" : "81",
-          "state" : "Georgia",
-          "name" : "Athens",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "44",
-            "ratOff" : "75",
-            "cumulativePrestige" : "-6",
-            "ratDef" : "79",
-            "homeState" : "Maine",
-            "ratPot" : "61",
-            "ratTalent" : "95",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "78",
-            "ratOvr" : "81",
-            "name" : "Juan Frossard",
-            "contractYear" : "6"
-          },
-          "rival" : "ALA"
-        },
-        {
-          "abbreviation" : "ATL",
-          "prestige" : "74",
-          "state" : "Georgia",
-          "name" : "Atlanta",
-          "headCoach" : {
-            "contractLength" : "3",
-            "startYear" : "2019",
-            "age" : "63",
-            "ratOff" : "95",
-            "cumulativePrestige" : "4",
-            "ratDef" : "75",
-            "homeState" : "Nevada",
-            "ratPot" : "62",
-            "ratTalent" : "95",
-            "baselinePrestige" : "67",
-            "ratDiscipline" : "90",
-            "ratOvr" : "88",
-            "name" : "Rodger Lamorella",
-            "contractYear" : "1"
-          },
-          "rival" : "KYW"
-        },
-        {
-          "abbreviation" : "ARK",
+          "abbreviation" : "VAND",
           "prestige" : "46",
-          "state" : "Arkansas",
-          "name" : "Arkansas",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "53",
-            "ratOff" : "82",
-            "cumulativePrestige" : "2",
-            "ratDef" : "84",
-            "homeState" : "Tennessee",
-            "ratPot" : "86",
-            "ratTalent" : "95",
-            "baselinePrestige" : "55",
-            "ratDiscipline" : "78",
-            "ratOvr" : "84",
-            "name" : "Mathew Pizzini",
-            "contractYear" : "1"
-          },
-          "rival" : "KTY"
+          "state" : "Tennessee",
+          "name" : "Vanderbilt",
+          "rival" : "TENN"
         },
         {
-          "abbreviation" : "KTY",
+          "abbreviation" : "UK",
           "prestige" : "47",
           "state" : "Kentucky",
           "name" : "Kentucky",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "38",
-            "ratOff" : "77",
-            "cumulativePrestige" : "-5",
-            "ratDef" : "72",
-            "homeState" : "Nevada",
-            "ratPot" : "94",
-            "ratTalent" : "95",
-            "baselinePrestige" : "45",
-            "ratDiscipline" : "61",
-            "ratOvr" : "76",
-            "name" : "Zach Kushaney",
-            "contractYear" : "6"
-          },
-          "rival" : "ARK"
+          "rival" : "LSU"
         },
         {
-          "abbreviation" : "NOR",
+          "abbreviation" : "LSU",
           "prestige" : "70",
           "state" : "Louisiana",
-          "name" : "New Orleans",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "40",
-            "ratOff" : "67",
-            "cumulativePrestige" : "-31",
-            "ratDef" : "64",
-            "homeState" : "Connecticut",
-            "ratPot" : "61",
-            "ratTalent" : "95",
-            "baselinePrestige" : "60",
-            "ratDiscipline" : "72",
-            "ratOvr" : "74",
-            "name" : "Travion Trebbe",
-            "contractYear" : "5"
-          },
-          "rival" : "LOU"
+          "name" : "LSU",
+          "rival" : "UK"
         },
         {
-          "abbreviation" : "LOU",
+          "abbreviation" : "UGA",
           "prestige" : "45",
-          "state" : "Louisiana",
-          "name" : "Louisiana",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "48",
-            "ratOff" : "58",
-            "cumulativePrestige" : "-8",
-            "ratDef" : "72",
-            "homeState" : "Minnesota",
-            "ratPot" : "63",
-            "ratTalent" : "95",
-            "baselinePrestige" : "49",
-            "ratDiscipline" : "53",
-            "ratOvr" : "69",
-            "name" : "Jamil Novickis",
-            "contractYear" : "4"
-          },
-          "rival" : "NOR"
+          "state" : "Georgia",
+          "name" : "Georgia",
+          "rival" : "FLA"
         },
         {
-          "abbreviation" : "KYW",
+          "abbreviation" : "FLA",
           "prestige" : "47",
           "state" : "Florida",
-          "name" : "Key West",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "43",
-            "ratOff" : "58",
-            "cumulativePrestige" : "-6",
-            "ratDef" : "62",
-            "homeState" : "Kentucky",
-            "ratPot" : "65",
-            "ratTalent" : "95",
-            "baselinePrestige" : "47",
-            "ratDiscipline" : "61",
-            "ratOvr" : "69",
-            "name" : "Jermaine Geurts",
-            "contractYear" : "3"
-          },
-          "rival" : "ATL"
+          "name" : "Florida",
+          "rival" : "UGA"
         }
       ],
-      "confFullName" : "Southern",
+      "confFullName" : "Southeastern Conference",
       "confPrestige" : "67",
-      "confName" : "SOUTH"
+      "confName" : "SEC"
     },
     {
       "confTeams" : [

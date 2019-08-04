@@ -7,22 +7,6 @@
           "prestige" : "95",
           "state" : "Florida",
           "name" : "Florida",
-          "headCoach" : {
-            "contractLength" : "5",
-            "startYear" : "2019",
-            "age" : "53",
-            "ratOff" : "95",
-            "cumulativePrestige" : "28",
-            "ratDef" : "95",
-            "homeState" : "Kentucky",
-            "ratPot" : "66",
-            "ratTalent" : "95",
-            "baselinePrestige" : "92",
-            "ratDiscipline" : "46",
-            "ratOvr" : "82",
-            "name" : "Demetrius Nik",
-            "contractYear" : "2"
-          },
           "rival" : "TEN"
         },
         {

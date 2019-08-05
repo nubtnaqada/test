@@ -370,14 +370,14 @@
           "abbreviation" : "NJS",
           "prestige" : "47",
           "state" : "New Jersey",
-          "name" : "New Jersey St^",
+          "name" : "New Jersey St",
           "rival" : "HRS"
         },
         {
           "abbreviation" : "HRS",
           "prestige" : "45",
           "state" : "Pennsylvania",
-          "name" : "Harrisburg^",
+          "name" : "Harrisburg",
           "rival" : "NJS"
         }
       ],

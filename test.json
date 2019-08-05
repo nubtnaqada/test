@@ -152,7 +152,7 @@
       ],
       "confFullName" : "Big Ten Conference",
       "confPrestige" : "63",
-      "confName" : "BIG10"
+      "confName" : "B10"
     },
     {
       "confTeams" : [
@@ -229,7 +229,84 @@
       ],
       "confFullName" : "Pac 10 Conference",
       "confPrestige" : "64",
-      "confName" : "PAC10"
+      "confName" : "P10"
+    },
+    {
+      "confTeams" : [
+        {
+          "abbreviation" : "COL",
+          "prestige" : "77",
+          "state" : "Colorado",
+          "name" : "Colorado",
+          "rival" : "NEB"
+        },
+        {
+          "abbreviation" : "NEB",
+          "prestige" : "95",
+          "state" : "Nebraska",
+          "name" : "Nebraska",
+          "rival" : "COL"
+        },
+        {
+          "abbreviation" : "OKLA",
+          "prestige" : "89",
+          "state" : "Oklahoma",
+          "name" : "Oklahoma",
+          "rival" : "OKST"
+        },
+        {
+          "abbreviation" : "OKST",
+          "prestige" : "76",
+          "state" : "Oklahoma",
+          "name" : "Oklahoma State",
+          "rival" : "OKLA"
+        },
+        {
+          "abbreviation" : "MIZ",
+          "prestige" : "48",
+          "state" : "Missouri",
+          "name" : "Missouri",
+          "rival" : "ISU"
+        },
+        {
+          "abbreviation" : "ISU",
+          "prestige" : "75",
+          "state" : "Iowa",
+          "name" : "Iowa State",
+          "rival" : "MIZ"
+        },
+        {
+          "abbreviation" : "KAN",
+          "prestige" : "45",
+          "state" : "Kansas",
+          "name" : "Kansas",
+          "rival" : "KSU"
+        },
+        {
+          "abbreviation" : "KSU",
+          "prestige" : "56",
+          "state" : "Kansas",
+          "name" : "Kansas State",
+          "rival" : "KAN"
+        },
+        {
+          "abbreviation" : "TUL",
+          "prestige" : "45",
+          "state" : "Oklahoma",
+          "name" : "Tulsa*",
+          "rival" : "OKS"
+        },
+        {
+          "abbreviation" : "AUS",
+          "prestige" : "45",
+          "state" : "Texas",
+          "name" : "Austin*",
+          "rival" : "TXS"
+        }
+      ],
+      "confFullName" : "Big 8 Conference",
+      "confPrestige" : "65",
+      "confName" : "B8"
     },
     {
       "confTeams" : [
@@ -467,243 +544,6 @@
       "confFullName" : "North",
       "confPrestige" : "65",
       "confName" : "NORTH"
-    },
-    {
-      "confTeams" : [
-        {
-          "abbreviation" : "DAL",
-          "prestige" : "77",
-          "state" : "Texas",
-          "name" : "Dallas",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "57",
-            "ratOff" : "95",
-            "cumulativePrestige" : "8",
-            "ratDef" : "86",
-            "homeState" : "Rhode Island",
-            "ratPot" : "71",
-            "ratTalent" : "95",
-            "baselinePrestige" : "78",
-            "ratDiscipline" : "84",
-            "ratOvr" : "90",
-            "name" : "Matthew Tepp",
-            "contractYear" : "5"
-          },
-          "rival" : "HOU"
-        },
-        {
-          "abbreviation" : "HOU",
-          "prestige" : "95",
-          "state" : "Texas",
-          "name" : "Houston",
-          "headCoach" : {
-            "contractLength" : "7",
-            "startYear" : "2019",
-            "age" : "55",
-            "ratOff" : "95",
-            "cumulativePrestige" : "28",
-            "ratDef" : "95",
-            "homeState" : "Michigan",
-            "ratPot" : "60",
-            "ratTalent" : "95",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "89",
-            "ratOvr" : "93",
-            "name" : "Deon Schappach",
-            "contractYear" : "3"
-          },
-          "rival" : "DAL"
-        },
-        {
-          "abbreviation" : "OKL",
-          "prestige" : "89",
-          "state" : "Oklahoma",
-          "name" : "Oklahoma",
-          "headCoach" : {
-            "contractLength" : "3",
-            "startYear" : "2019",
-            "age" : "63",
-            "ratOff" : "95",
-            "cumulativePrestige" : "18",
-            "ratDef" : "95",
-            "homeState" : "Oregon",
-            "ratPot" : "79",
-            "ratTalent" : "95",
-            "baselinePrestige" : "94",
-            "ratDiscipline" : "59",
-            "ratOvr" : "86",
-            "name" : "Will Tebar",
-            "contractYear" : "2"
-          },
-          "rival" : "TEX"
-        },
-        {
-          "abbreviation" : "AMO",
-          "prestige" : "76",
-          "state" : "Texas",
-          "name" : "Alamo St",
-          "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2019",
-            "age" : "39",
-            "ratOff" : "92",
-            "cumulativePrestige" : "11",
-            "ratDef" : "83",
-            "homeState" : "Maryland",
-            "ratPot" : "75",
-            "ratTalent" : "95",
-            "baselinePrestige" : "72",
-            "ratDiscipline" : "76",
-            "ratOvr" : "86",
-            "name" : "Calvin Tauares",
-            "contractYear" : "1"
-          },
-          "rival" : "PAS"
-        },
-        {
-          "abbreviation" : "OKS",
-          "prestige" : "48",
-          "state" : "Oklahoma",
-          "name" : "Oklahoma St",
-          "headCoach" : {
-            "contractLength" : "3",
-            "startYear" : "2019",
-            "age" : "40",
-            "ratOff" : "85",
-            "cumulativePrestige" : "2",
-            "ratDef" : "88",
-            "homeState" : "New Jersey",
-            "ratPot" : "96",
-            "ratTalent" : "95",
-            "baselinePrestige" : "47",
-            "ratDiscipline" : "70",
-            "ratOvr" : "84",
-            "name" : "Keith Dehaas",
-            "contractYear" : "0"
-          },
-          "rival" : "TUL"
-        },
-        {
-          "abbreviation" : "TEX",
-          "prestige" : "75",
-          "state" : "Texas",
-          "name" : "Texas",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2023",
-            "age" : "59",
-            "ratOff" : "72",
-            "cumulativePrestige" : "-21",
-            "ratDef" : "66",
-            "homeState" : "California",
-            "ratPot" : "83",
-            "ratTalent" : "95",
-            "baselinePrestige" : "88",
-            "ratDiscipline" : "68",
-            "ratOvr" : "75",
-            "name" : "Gavin Sisson",
-            "contractYear" : "4"
-          },
-          "rival" : "OKL"
-        },
-        {
-          "abbreviation" : "PAS",
-          "prestige" : "45",
-          "state" : "Texas",
-          "name" : "El Paso St",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2021",
-            "age" : "47",
-            "ratOff" : "61",
-            "cumulativePrestige" : "-3",
-            "ratDef" : "61",
-            "homeState" : "Minnesota",
-            "ratPot" : "71",
-            "ratTalent" : "95",
-            "baselinePrestige" : "47",
-            "ratDiscipline" : "83",
-            "ratOvr" : "75",
-            "name" : "Antwan Rashid",
-            "contractYear" : "6"
-          },
-          "rival" : "AMO"
-        },
-        {
-          "abbreviation" : "TXS",
-          "prestige" : "56",
-          "state" : "Texas",
-          "name" : "Texas St",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "49",
-            "ratOff" : "86",
-            "cumulativePrestige" : "-8",
-            "ratDef" : "79",
-            "homeState" : "Illinois",
-            "ratPot" : "69",
-            "ratTalent" : "95",
-            "baselinePrestige" : "57",
-            "ratDiscipline" : "62",
-            "ratOvr" : "80",
-            "name" : "Broderick Desanctis",
-            "contractYear" : "5"
-          },
-          "rival" : "AUS"
-        },
-        {
-          "abbreviation" : "TUL",
-          "prestige" : "45",
-          "state" : "Oklahoma",
-          "name" : "Tulsa",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "46",
-            "ratOff" : "74",
-            "cumulativePrestige" : "-2",
-            "ratDef" : "63",
-            "homeState" : "Arizona",
-            "ratPot" : "70",
-            "ratTalent" : "95",
-            "baselinePrestige" : "45",
-            "ratDiscipline" : "67",
-            "ratOvr" : "74",
-            "name" : "Skyler Strojny",
-            "contractYear" : "2"
-          },
-          "rival" : "OKS"
-        },
-        {
-          "abbreviation" : "AUS",
-          "prestige" : "45",
-          "state" : "Texas",
-          "name" : "Austin",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2024",
-            "age" : "53",
-            "ratOff" : "73",
-            "cumulativePrestige" : "-5",
-            "ratDef" : "59",
-            "homeState" : "Indiana",
-            "ratPot" : "61",
-            "ratTalent" : "95",
-            "baselinePrestige" : "45",
-            "ratDiscipline" : "53",
-            "ratOvr" : "70",
-            "name" : "Tyree Nightwine",
-            "contractYear" : "3"
-          },
-          "rival" : "TXS"
-        }
-      ],
-      "confFullName" : "Cowboy",
-      "confPrestige" : "65",
-      "confName" : "COWBY"
     },
     {
       "confTeams" : [

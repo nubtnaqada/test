@@ -293,20 +293,97 @@
           "abbreviation" : "TUL",
           "prestige" : "45",
           "state" : "Oklahoma",
-          "name" : "Tulsa*",
-          "rival" : "OKS"
+          "name" : "Tulsa",
+          "rival" : "AUS"
         },
         {
           "abbreviation" : "AUS",
           "prestige" : "45",
           "state" : "Texas",
-          "name" : "Austin*",
-          "rival" : "TXS"
+          "name" : "Austin",
+          "rival" : "TUL"
         }
       ],
       "confFullName" : "Big 8 Conference",
       "confPrestige" : "65",
       "confName" : "B8"
+    },
+    {
+      "confTeams" : [
+        {
+          "abbreviation" : "UNC",
+          "prestige" : "87",
+          "state" : "North Carolina",
+          "name" : "North Carolina",
+          "rival" : "DUKE"
+        },
+        {
+          "abbreviation" : "DUKE",
+          "prestige" : "66",
+          "state" : "North Carolina",
+          "name" : "Duke",
+          "rival" : "UNC"
+        },
+        {
+          "abbreviation" : "CLEM",
+          "prestige" : "65",
+          "state" : "South Carolina",
+          "name" : "Clemson",
+          "rival" : "GATC"
+        },
+        {
+          "abbreviation" : "GATC",
+          "prestige" : "84",
+          "state" : "Georgia",
+          "name" : "Georgia Tech",
+          "rival" : "CLEM"
+        },
+        {
+          "abbreviation" : "WAKE",
+          "prestige" : "46",
+          "state" : "North Carolina",
+          "name" : "Wake Forest",
+          "rival" : "NCST"
+        },
+        {
+          "abbreviation" : "NCST",
+          "prestige" : "58",
+          "state" : "North Carolina",
+          "name" : "North Carolina St.",
+          "rival" : "WAKE"
+        },
+        {
+          "abbreviation" : "UMD",
+          "prestige" : "95",
+          "state" : "Maryland",
+          "name" : "Maryland",
+          "rival" : "UVA"
+        },
+        {
+          "abbreviation" : "UVA",
+          "prestige" : "69",
+          "state" : "Virginia",
+          "name" : "Virginia",
+          "rival" : "UMD"
+        },
+        {
+          "abbreviation" : "NJS",
+          "prestige" : "47",
+          "state" : "New Jersey",
+          "name" : "New Jersey St#",
+          "rival" : "HRS"
+        },
+        {
+          "abbreviation" : "HRS",
+          "prestige" : "45",
+          "state" : "Pennsylvania",
+          "name" : "Harrisburg#",
+          "rival" : "NJS"
+        }
+      ],
+      "confFullName" : "Atlantic Coast Conference",
+      "confPrestige" : "66",
+      "confName" : "ACC"
     },
     {
       "confTeams" : [
@@ -1255,243 +1332,6 @@
       "confFullName" : "Northwest",
       "confPrestige" : "68",
       "confName" : "NWST"
-    },
-    {
-      "confTeams" : [
-        {
-          "abbreviation" : "APT",
-          "prestige" : "95",
-          "state" : "Virginia",
-          "name" : "Applachian Tech",
-          "headCoach" : {
-            "contractLength" : "7",
-            "startYear" : "2019",
-            "age" : "62",
-            "ratOff" : "95",
-            "cumulativePrestige" : "37",
-            "ratDef" : "95",
-            "homeState" : "Hawaii",
-            "ratPot" : "85",
-            "ratTalent" : "95",
-            "baselinePrestige" : "90",
-            "ratDiscipline" : "48",
-            "ratOvr" : "83",
-            "name" : "Sheldon Yow",
-            "contractYear" : "2"
-          },
-          "rival" : "VRG"
-        },
-        {
-          "abbreviation" : "CHP",
-          "prestige" : "87",
-          "state" : "North Carolina",
-          "name" : "Chapel Hill",
-          "headCoach" : {
-            "contractLength" : "5",
-            "startYear" : "2019",
-            "age" : "62",
-            "ratOff" : "95",
-            "cumulativePrestige" : "32",
-            "ratDef" : "95",
-            "homeState" : "Kentucky",
-            "ratPot" : "94",
-            "ratTalent" : "95",
-            "baselinePrestige" : "78",
-            "ratDiscipline" : "90",
-            "ratOvr" : "93",
-            "name" : "Luke Featheringham",
-            "contractYear" : "3"
-          },
-          "rival" : "DUR"
-        },
-        {
-          "abbreviation" : "DUR",
-          "prestige" : "66",
-          "state" : "North Carolina",
-          "name" : "Durham",
-          "headCoach" : {
-            "contractLength" : "2",
-            "startYear" : "2019",
-            "age" : "39",
-            "ratOff" : "95",
-            "cumulativePrestige" : "3",
-            "ratDef" : "95",
-            "homeState" : "Alaska",
-            "ratPot" : "90",
-            "ratTalent" : "95",
-            "baselinePrestige" : "70",
-            "ratDiscipline" : "80",
-            "ratOvr" : "91",
-            "name" : "William Weins",
-            "contractYear" : "0"
-          },
-          "rival" : "CHP"
-        },
-        {
-          "abbreviation" : "DEL",
-          "prestige" : "65",
-          "state" : "Delaware",
-          "name" : "Delaware",
-          "headCoach" : {
-            "contractLength" : "2",
-            "startYear" : "2019",
-            "age" : "62",
-            "ratOff" : "95",
-            "cumulativePrestige" : "15",
-            "ratDef" : "95",
-            "homeState" : "Mississippi",
-            "ratPot" : "88",
-            "ratTalent" : "95",
-            "baselinePrestige" : "65",
-            "ratDiscipline" : "52",
-            "ratOvr" : "84",
-            "name" : "Casey Hugel",
-            "contractYear" : "0"
-          },
-          "rival" : "RAL"
-        },
-        {
-          "abbreviation" : "MTW",
-          "prestige" : "84",
-          "state" : "West Virginia",
-          "name" : "Morgantown",
-          "headCoach" : {
-            "contractLength" : "4",
-            "startYear" : "2019",
-            "age" : "54",
-            "ratOff" : "91",
-            "cumulativePrestige" : "18",
-            "ratDef" : "91",
-            "homeState" : "Ohio",
-            "ratPot" : "59",
-            "ratTalent" : "95",
-            "baselinePrestige" : "74",
-            "ratDiscipline" : "52",
-            "ratOvr" : "82",
-            "name" : "Arthur Yoshizumi",
-            "contractYear" : "2"
-          },
-          "rival" : "PRO"
-        },
-        {
-          "abbreviation" : "RND",
-          "prestige" : "46",
-          "state" : "West Virginia",
-          "name" : "Rand",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "61",
-            "ratOff" : "71",
-            "cumulativePrestige" : "3",
-            "ratDef" : "86",
-            "homeState" : "Kansas",
-            "ratPot" : "63",
-            "ratTalent" : "95",
-            "baselinePrestige" : "47",
-            "ratDiscipline" : "48",
-            "ratOvr" : "75",
-            "name" : "Brogan Schreacke",
-            "contractYear" : "4"
-          },
-          "rival" : "MTW"
-        },
-        {
-          "abbreviation" : "RAL",
-          "prestige" : "58",
-          "state" : "North Carolina",
-          "name" : "Raleigh",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "43",
-            "ratOff" : "78",
-            "cumulativePrestige" : "-3",
-            "ratDef" : "80",
-            "homeState" : "Arkansas",
-            "ratPot" : "90",
-            "ratTalent" : "95",
-            "baselinePrestige" : "64",
-            "ratDiscipline" : "73",
-            "ratOvr" : "81",
-            "name" : "Kadarius Gautreau",
-            "contractYear" : "3"
-          },
-          "rival" : "DEL"
-        },
-        {
-          "abbreviation" : "NJS",
-          "prestige" : "47",
-          "state" : "New Jersey",
-          "name" : "New Jersey St",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "45",
-            "ratOff" : "95",
-            "cumulativePrestige" : "4",
-            "ratDef" : "82",
-            "homeState" : "New Hampshire",
-            "ratPot" : "79",
-            "ratTalent" : "95",
-            "baselinePrestige" : "47",
-            "ratDiscipline" : "64",
-            "ratOvr" : "84",
-            "name" : "Kyle Fruits",
-            "contractYear" : "2"
-          },
-          "rival" : "HRS"
-        },
-        {
-          "abbreviation" : "VRG",
-          "prestige" : "69",
-          "state" : "Virginia",
-          "name" : "Virginia",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "52",
-            "ratOff" : "95",
-            "cumulativePrestige" : "6",
-            "ratDef" : "95",
-            "homeState" : "New Mexico",
-            "ratPot" : "68",
-            "ratTalent" : "95",
-            "baselinePrestige" : "65",
-            "ratDiscipline" : "78",
-            "ratOvr" : "90",
-            "name" : "Kalvin Frometa",
-            "contractYear" : "3"
-          },
-          "rival" : "APT"
-        },
-        {
-          "abbreviation" : "HRS",
-          "prestige" : "45",
-          "state" : "Pennsylvania",
-          "name" : "Harrisburg",
-          "headCoach" : {
-            "contractLength" : "6",
-            "startYear" : "2019",
-            "age" : "56",
-            "ratOff" : "93",
-            "cumulativePrestige" : "-5",
-            "ratDef" : "75",
-            "homeState" : "West Virginia",
-            "ratPot" : "99",
-            "ratTalent" : "95",
-            "baselinePrestige" : "45",
-            "ratDiscipline" : "70",
-            "ratOvr" : "83",
-            "name" : "Gerald McCant",
-            "contractYear" : "4"
-          },
-          "rival" : "NJS"
-        }
-      ],
-      "confFullName" : "Mid Atlantic",
-      "confPrestige" : "66",
-      "confName" : "MATL"
     },
     {
       "confTeams" : [

@@ -256,7 +256,7 @@
         },        
         {
           "abbreviation" : "NEV",
-          "prestige" : "25",
+          "prestige" : "45",
           "state" : "Nevada",
           "name" : "Nevada",
           "rival" : "UNLV"
@@ -396,7 +396,7 @@
         },
         {
           "abbreviation" : "AZST",
-          "prestige" : "28",
+          "prestige" : "48",
           "state" : "Arizona",
           "name" : "Arizona State",
           "rival" : "ZONA"
@@ -683,7 +683,7 @@
         },
         {
           "abbreviation" : "BOI",
-          "prestige" : "25",
+          "prestige" : "65",
           "state" : "Idaho",
           "name" : "Boise State&",
           "rival" : "AFA"
@@ -941,7 +941,7 @@
         }
       ],
       "confFullName" : "Division IAA",
-      "confPrestige" : "35",
+      "confPrestige" : "45",
       "confName" : "IAA"
     }
   ],

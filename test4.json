@@ -851,63 +851,63 @@
       "confTeams" : [
         {
           "abbreviation" : "FUR",
-          "prestige" : "29",
+          "prestige" : "45",
           "state" : "South Carolina",
           "name" : "Furman",
           "rival" : "GSU"
         },
         {
           "abbreviation" : "GRAM",
-          "prestige" : "26",
+          "prestige" : "45",
           "state" : "Louisiana",
           "name" : "Grambling State",
           "rival" : "SFA"
         },        
         {
           "abbreviation" : "GSU",
-          "prestige" : "28",
+          "prestige" : "45",
           "state" : "Georgia",
           "name" : "Georgia Southern",
           "rival" : "FUR"
         },        
         {
           "abbreviation" : "HOLY",
-          "prestige" : "27",
+          "prestige" : "45",
           "state" : "Massachusetts",
           "name" : "Holy Cross",
           "rival" : "YALE"
         },
         {
           "abbreviation" : "IDA",
-          "prestige" : "30",
+          "prestige" : "45",
           "state" : "Idaho",
           "name" : "Idaho",
           "rival" : "MAI"
         },
         {
           "abbreviation" : "MAI",
-          "prestige" : "28",
+          "prestige" : "45",
           "state" : "Maine",
           "name" : "Maine",
           "rival" : "IDA"
         },        
         {
           "abbreviation" : "MTSU",
-          "prestige" : "29",
+          "prestige" : "45",
           "state" : "Tennessee",
           "name" : "Middle Tennessee St.",
           "rival" : "SWMO"
         },
         {
           "abbreviation" : "SFA",
-          "prestige" : "31",
+          "prestige" : "45",
           "state" : "Texas",
           "name" : "Stephen F. Austin",
           "rival" : "GRAM"
         },
         {
           "abbreviation" : "SWMO",
-          "prestige" : "26",
+          "prestige" : "45",
           "state" : "Missouri",
           "name" : "SW Missouri State",
           "rival" : "MTSU",
@@ -924,8 +924,8 @@
         },
         {
           "abbreviation" : "YALE",
-          "prestige" : "28",
-          "state" : "American Samoa",
+          "prestige" : "45",
+          "state" : "Connecticut",
           "name" : "Yale",
           "rival" : "HOLY",
           "headCoach": 

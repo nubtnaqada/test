@@ -911,6 +911,7 @@
           "state" : "Missouri",
           "name" : "SW Missouri State",
           "rival" : "MTSU",
+	  "headCoach":
           {
             "name": "Chris Chase",
             "age": "55",
@@ -927,7 +928,7 @@
           "state" : "Connecticut",
           "name" : "Yale",
           "rival" : "HOLY",
-		  "headCoach": 
+	  "headCoach": 
           {
             "name": "Chase Dumpson",
             "age": "35",

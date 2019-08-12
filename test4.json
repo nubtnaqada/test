@@ -375,9 +375,9 @@
         },
         {
           "abbreviation" : "AKR",
-          "prestige" : "49",
+          "prestige" : "25",
           "state" : "Ohio",
-          "name" : "Akron&",
+          "name" : "Akron",
           "rival" : "KENT"
         }
       ],
@@ -571,7 +571,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "25",
+          "prestige" : "45",
           "state" : "Texas",
           "name" : "Southern Methodist",
           "rival" : "TCU"

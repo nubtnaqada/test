@@ -28,7 +28,17 @@
           "prestige" : "95",
           "state" : "Maryland",
           "name" : "Maryland",
-          "rival" : "UVA"
+          "rival" : "UVA",
+          "headCoach":
+          {
+            "name": "Test Coachname",
+            "age": "63",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Maryland",
+            "baselinePrestige": "0"
+          }             
         },
         {
           "abbreviation" : "UNC",

@@ -8,6 +8,7 @@
           "state" : "South Carolina",
           "name" : "Clemson",
           "rival" : "GT",
+		  "headCoach" :
           {
             "name": "Retiree Coach",
             "age": "68",
@@ -23,6 +24,7 @@
           "state" : "North Carolina",
           "name" : "Duke",
           "rival" : "UNC",
+		  "headCoach" :
           {
             "name": "Test Coach",
             "age": "30",
